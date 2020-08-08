@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Patrícia Souza
+## Patrícia de Souza
 
 Atualmente trabalho com suporte técnico de Informática. <br>
 Aluna do Bootcamp Back-Eng {reprograma} <br>
