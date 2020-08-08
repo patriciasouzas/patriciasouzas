@@ -2,9 +2,9 @@
 
 ## Patrícia Souza
 
-Atualmente trabalho com suporte técnico de Informática.
-Aluna do Bootcamp Back-Eng {reprograma}
-Aluna do Bootcamp Análise de Banco de Dados IGTI
+Atualmente trabalho com suporte técnico de Informática. <br>
+Aluna do Bootcamp Back-Eng {reprograma} <br>
+Aluna do Bootcamp Análise de Banco de Dados IGTI <br>
 
 
 
