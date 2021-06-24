@@ -1,13 +1,5 @@
 ### Hi there 👋
 
-## Patrícia de Souza
-
-Atualmente trabalho com suporte técnico de Informática. <br>
-Aluna do Bootcamp Back-End {reprograma} <br>
-Aluna do Bootcamp Análise de Banco de Dados IGTI <br>
-
-
-
 <!--
 **patriciasouzas/patriciasouzas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
