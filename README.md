@@ -2,6 +2,7 @@
 
 ## Me encontre nos locais abaixo:🌎
 [![Linkedin: Patricia](https://img.shields.io/badge/-Patricia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patriciasouzas/)](https://www.linkedin.com/in/patriciasouzas/)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:patricia_souzas@live.com)
 [![GitHub Patricia](https://img.shields.io/github/followers/patriciasouzas?label=follow&style=social)](https://github.com/patriciasouzas)
 
 
